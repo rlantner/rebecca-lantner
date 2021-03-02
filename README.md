@@ -1,2 +1,3 @@
 # rebecca-lantner
-My little corner of the world wide web
+My own little corner of the world wide web.
+Portfolio website using Bootstrap + GitHub Pages.
